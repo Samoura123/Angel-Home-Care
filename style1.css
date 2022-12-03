@@ -60,11 +60,11 @@ nav a:hover { Color: white;
        text-decoration: underline; }
 
 ul{
-  list-style-image:url('../wishlist/green.gif');
+  list-style-image:url('green.gif');
 }
 
 header{
-      background:url(../wishlist/home-care-logo.jpg) #D46A6A no-repeat;
+      background:url(home-care-logo.jpg) #D46A6A no-repeat;
       background-size: 50px 50px;
       background-position: 20px 10px; 
       padding-left: 70px;
@@ -77,7 +77,7 @@ header{
 }
 
 Section{
-       background: url(../wishlist/background.jpg) white no-repeat;
+       background: url(background.jpg) white no-repeat;
        background-size: cover;
        background-position: top center;
        height: 450px;
